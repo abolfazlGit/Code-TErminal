@@ -1,0 +1,5 @@
+code in terminale->
+
+php artisan make:controller NameController
+
+//نوشتاری به روش حروف اول با حرف بزرگ نوشته شود
