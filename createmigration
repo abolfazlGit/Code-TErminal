@@ -1,0 +1,5 @@
+code in terminal
+
+php artisan make:migration name
+
+//استفاده میشود migration برای ساخت جداول درون دیتابیس از
